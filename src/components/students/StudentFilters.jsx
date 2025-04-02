@@ -68,7 +68,9 @@ const StudentFilters = () => {
   };
 
   return (
-    <div className="bg-white shadow rounded-lg p-4 mb-6">
+    <div className="bg-white shadow rounded-lg p-4 mb-6 mt-6 lg:mt-10">
+      {" "}
+      {/* Adjusted margin-top for spacing */}
       <h2 className="text-lg font-medium text-gray-900 mb-4">
         Filter Students
       </h2>
