@@ -20,17 +20,6 @@ const App = () => {
           <div className="flex">
             <Sidebar />
             <main className="flex-1 md:pl-64">
-              {/* <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/login" element={<Login />} />
-                <Route element={<ProtectedRoute />}>
-                  <Route path="/dashboard" element={<Dashboard />} />
-                  <Route path="/students" element={<Students />} />
-                </Route>
-                <Route element={<ProtectedRoute roles={["admin"]} />}>
-                  <Route path="/add-student" element={<AddStudent />} />
-                </Route>
-              </Routes> */}
               <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/login" element={<Login />} />
