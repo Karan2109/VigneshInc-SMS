@@ -1,0 +1,72 @@
+[
+  {
+    "rollNo": 1,
+    "name": "John Doe",
+    "class": "10",
+    "section": "A",
+    "attendance": 85.5
+  },
+  {
+    "rollNo": 2,
+    "name": "Jane Smith",
+    "class": "10",
+    "section": "B",
+    "attendance": 92.3
+  },
+  {
+    "rollNo": 3,
+    "name": "Michael Johnson",
+    "class": "9",
+    "section": "A",
+    "attendance": 78.9
+  },
+  {
+    "rollNo": 4,
+    "name": "Emily Davis",
+    "class": "9",
+    "section": "C",
+    "attendance": 88.2
+  },
+  {
+    "rollNo": 5,
+    "name": "Robert Wilson",
+    "class": "11",
+    "section": "B",
+    "attendance": 95.0
+  },
+  {
+    "rollNo": 6,
+    "name": "Sarah Brown",
+    "class": "11",
+    "section": "A",
+    "attendance": 76.4
+  },
+  {
+    "rollNo": 7,
+    "name": "David Taylor",
+    "class": "10",
+    "section": "D",
+    "attendance": 89.7
+  },
+  {
+    "rollNo": 8,
+    "name": "Jennifer Martinez",
+    "class": "9",
+    "section": "B",
+    "attendance": 82.1
+  },
+  {
+    "rollNo": 9,
+    "name": "Thomas Anderson",
+    "class": "11",
+    "section": "C",
+    "attendance": 91.5
+  },
+  {
+    "rollNo": 10,
+    "name": "Lisa Jackson",
+    "class": "10",
+    "section": "A",
+    "attendance": 87.8
+  }
+]
