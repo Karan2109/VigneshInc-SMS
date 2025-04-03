@@ -1,72 +1,72 @@
 [
   {
-    "rollNo": 1,
-    "name": "John Doe",
-    "class": "10",
+    "rollNo": "S1001",
+    "name": "Rohan Reddy",
+    "class": "10th",
     "section": "A",
-    "attendance": 85.5
+    "attendance": 72
   },
   {
-    "rollNo": 2,
-    "name": "Jane Smith",
-    "class": "10",
+    "rollNo": "S1002",
+    "name": "Sneha Saxena",
+    "class": "10th",
     "section": "B",
-    "attendance": 92.3
+    "attendance": 96
   },
   {
-    "rollNo": 3,
-    "name": "Michael Johnson",
-    "class": "9",
+    "rollNo": "S1003",
+    "name": "Deepak Thakur",
+    "class": "10th",
     "section": "A",
-    "attendance": 78.9
+    "attendance": 98
   },
   {
-    "rollNo": 4,
-    "name": "Emily Davis",
-    "class": "9",
-    "section": "C",
-    "attendance": 88.2
-  },
-  {
-    "rollNo": 5,
-    "name": "Robert Wilson",
-    "class": "11",
+    "rollNo": "S1004",
+    "name": "Sakshi Bhatia",
+    "class": "10th",
     "section": "B",
-    "attendance": 95.0
+    "attendance": 73
   },
   {
-    "rollNo": 6,
-    "name": "Sarah Brown",
-    "class": "11",
-    "section": "A",
-    "attendance": 76.4
-  },
-  {
-    "rollNo": 7,
-    "name": "David Taylor",
-    "class": "10",
-    "section": "D",
-    "attendance": 89.7
-  },
-  {
-    "rollNo": 8,
-    "name": "Jennifer Martinez",
-    "class": "9",
+    "rollNo": "S1005",
+    "name": "Vikram Nair",
+    "class": "9th",
     "section": "B",
-    "attendance": 82.1
+    "attendance": 79
   },
   {
-    "rollNo": 9,
-    "name": "Thomas Anderson",
-    "class": "11",
-    "section": "C",
-    "attendance": 91.5
-  },
-  {
-    "rollNo": 10,
-    "name": "Lisa Jackson",
-    "class": "10",
+    "rollNo": "S1006",
+    "name": "Deepak Malhotra",
+    "class": "9th",
     "section": "A",
-    "attendance": 87.8
+    "attendance": 77
+  },
+  {
+    "rollNo": "S1007",
+    "name": "Sneha Chowdhury",
+    "class": "9th",
+    "section": "B",
+    "attendance": 71
+  },
+  {
+    "rollNo": "S1008",
+    "name": "Arjun Kapoor",
+    "class": "9th",
+    "section": "A",
+    "attendance": 90
+  },
+  {
+    "rollNo": "S1009",
+    "name": "Tanvi Nair",
+    "class": "10th",
+    "section": "A",
+    "attendance": 98
+  },
+  {
+    "rollNo": "S1010",
+    "name": "Meena Nair",
+    "class": "10th",
+    "section": "A",
+    "attendance": 91
   }
 ]
